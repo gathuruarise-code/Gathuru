@@ -1,0 +1,12 @@
+p{font-style:italic;
+font-size:30px;
+font-weght:bold;
+color:purple;}
+
+body{ background:grey;
+
+  box-shadow:
+    0 0 10px #ff69b4,
+    0 0 20px #ff69b4,
+    0 0 40px #ff69b4;
+}
